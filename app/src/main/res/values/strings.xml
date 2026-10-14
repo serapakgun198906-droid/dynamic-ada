@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ada</string>
+    <string name="acc_desc">Ekranın üstünde Dynamic Island benzeri ada gösterir.</string>
+</resources>
